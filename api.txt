@@ -1,0 +1,155 @@
+Api clinic (Phòng khám): https://localhost:7130/api/clinics
+[
+    {
+        "clinicId": 8,
+        "clinicName": "Phòng khám Hiền Lương"
+    },
+    {
+        "clinicId": 2,
+        "clinicName": "Phòng khám Hòa Bình"
+    },
+    {
+        "clinicId": 6,
+        "clinicName": "Phòng khám Quang Hiếu"
+    },
+    {
+        "clinicId": 1,
+        "clinicName": "Phòng khám Tâm An"
+    },
+    {
+        "clinicId": 7,
+        "clinicName": "Phòng khám Thị Dinh"
+    },
+    {
+        "clinicId": 9,
+        "clinicName": "Phòng khám Thùy Liên"
+    },
+    {
+        "clinicId": 3,
+        "clinicName": "Phòng khám Việt Đức"
+    },
+    {
+        "clinicId": 5,
+        "clinicName": "Phòng khám Xuân Huy"
+    }
+]
+----------------------------------------------
+Api Specialty (Chuyên khoa): https://localhost:7130/api/specialties
+[
+    {
+        "specialtyId": 2,
+        "specialtyName": "Da liễu 1"
+    },
+    {
+        "specialtyId": 4,
+        "specialtyName": "Nhi khoa 1"
+    },
+    {
+        "specialtyId": 1,
+        "specialtyName": "Nội tổng quát"
+    },
+    {
+        "specialtyId": 3,
+        "specialtyName": "Sản phụ khoa"
+    }
+]
+-----------------------------------------------
+Api Doctor (Bác sĩ): https://localhost:7130/api/doctors
+[
+    {
+        "doctorId": 1,
+        "fullName": "Nguyễn Văn Hùng",
+        "dateOfBirth": "1975-03-15T00:00:00",
+        "gender": "Nam",
+        "phoneNumber": "0987654321",
+        "email": "hungnv@example.com",
+        "specialtyId": 1,
+        "qualification": "Tiến sĩ",
+        "yearsOfExperience": 20,
+        "avatar": "/avatars/hungnv.jpg",
+        "bio": "Bác sĩ chuyên khoa Nội tổng quát với 20 năm kinh nghiệm"
+    },
+    {
+        "doctorId": 2,
+        "fullName": "Trần Thị Mai",
+        "dateOfBirth": "1980-07-22T00:00:00",
+        "gender": "Nữ",
+        "phoneNumber": "0912345678",
+        "email": "maitt@example.com",
+        "specialtyId": 2,
+        "qualification": "Thạc sĩ",
+        "yearsOfExperience": 15,
+        "avatar": "/avatars/maitt.jpg",
+        "bio": "Chuyên gia Da liễu, từng công tác tại BV Da liễu TW"
+    },
+    {
+        "doctorId": 3,
+        "fullName": "Phạm Quốc Anh",
+        "dateOfBirth": "1985-11-30T00:00:00",
+        "gender": "Nam",
+        "phoneNumber": "0934567890",
+        "email": null,
+        "specialtyId": 3,
+        "qualification": "BSCKI",
+        "yearsOfExperience": 3,
+        "avatar": null,
+        "bio": "Bác sĩ Sản phụ khoa, tận tâm với bệnh nhân"
+    },
+    {
+        "doctorId": 4,
+        "fullName": "Lê Thị Hồng Nhung",
+        "dateOfBirth": "1990-05-10T00:00:00",
+        "gender": "Nữ",
+        "phoneNumber": "0971234567",
+        "email": "nhunglth@example.com",
+        "specialtyId": 4,
+        "qualification": "Bác sĩ",
+        "yearsOfExperience": 5,
+        "avatar": "/avatars/nhunglth.jpg",
+        "bio": null
+    }
+]
+-------------------------------------------------
+Api Service (Dịch vụ khám): https://localhost:7130/api/services
+[
+    {
+        "serviceId": 1,
+        "serviceName": "Khám nội tổng quát",
+        "description": "Khám và tư vấn sức khỏe toàn diện",
+        "cost": 500000.00,
+        "duration": 30,
+        "image": "/images/khamnoitongquat.jpg",
+        "doctorId": 1,
+        "specialtyId": 1
+    },
+    {
+        "serviceId": 2,
+        "serviceName": "Khám da liễu",
+        "description": "Khám và điều trị các bệnh về da",
+        "cost": 400000.00,
+        "duration": 20,
+        "image": "/images/khamdalieu.jpg",
+        "doctorId": 2,
+        "specialtyId": 2
+    },
+    {
+        "serviceId": 3,
+        "serviceName": "Khám thai định kỳ",
+        "description": "Khám thai và tư vấn sức khỏe mẹ bầu",
+        "cost": 600000.00,
+        "duration": 40,
+        "image": "/images/khamnoikhoa.jpg",
+        "doctorId": 3,
+        "specialtyId": 3
+    },
+    {
+        "serviceId": 4,
+        "serviceName": "Khám nhi khoa",
+        "description": "Khám và điều trị bệnh trẻ em",
+        "cost": 350000.00,
+        "duration": 25,
+        "image": "/images/khamnhikhoa.jpg",
+        "doctorId": 4,
+        "specialtyId": 4
+    }
+]

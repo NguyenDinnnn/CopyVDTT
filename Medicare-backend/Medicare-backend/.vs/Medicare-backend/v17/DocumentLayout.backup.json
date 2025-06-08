@@ -1,0 +1,200 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\review\\Medicare\\Medicare-backend\\Medicare-backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE884C3A-1202-49E9-8165-03890737A1D9}|Medicare-backend\\Medicare_backend.csproj|d:\\review\\medicare\\medicare-backend\\medicare-backend\\medicare-backend\\controllers\\clinicscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE884C3A-1202-49E9-8165-03890737A1D9}|Medicare-backend\\Medicare_backend.csproj|solutionrelative:medicare-backend\\controllers\\clinicscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE884C3A-1202-49E9-8165-03890737A1D9}|Medicare-backend\\Medicare_backend.csproj|d:\\review\\medicare\\medicare-backend\\medicare-backend\\medicare-backend\\dtos\\servicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE884C3A-1202-49E9-8165-03890737A1D9}|Medicare-backend\\Medicare_backend.csproj|solutionrelative:medicare-backend\\dtos\\servicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE884C3A-1202-49E9-8165-03890737A1D9}|Medicare-backend\\Medicare_backend.csproj|d:\\review\\medicare\\medicare-backend\\medicare-backend\\medicare-backend\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE884C3A-1202-49E9-8165-03890737A1D9}|Medicare-backend\\Medicare_backend.csproj|solutionrelative:medicare-backend\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE884C3A-1202-49E9-8165-03890737A1D9}|Medicare-backend\\Medicare_backend.csproj|d:\\review\\medicare\\medicare-backend\\medicare-backend\\medicare-backend\\controllers\\specialtiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE884C3A-1202-49E9-8165-03890737A1D9}|Medicare-backend\\Medicare_backend.csproj|solutionrelative:medicare-backend\\controllers\\specialtiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE884C3A-1202-49E9-8165-03890737A1D9}|Medicare-backend\\Medicare_backend.csproj|d:\\review\\medicare\\medicare-backend\\medicare-backend\\medicare-backend\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE884C3A-1202-49E9-8165-03890737A1D9}|Medicare-backend\\Medicare_backend.csproj|solutionrelative:medicare-backend\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE884C3A-1202-49E9-8165-03890737A1D9}|Medicare-backend\\Medicare_backend.csproj|d:\\review\\medicare\\medicare-backend\\medicare-backend\\medicare-backend\\controllers\\servicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE884C3A-1202-49E9-8165-03890737A1D9}|Medicare-backend\\Medicare_backend.csproj|solutionrelative:medicare-backend\\controllers\\servicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE884C3A-1202-49E9-8165-03890737A1D9}|Medicare-backend\\Medicare_backend.csproj|d:\\review\\medicare\\medicare-backend\\medicare-backend\\medicare-backend\\services\\serviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE884C3A-1202-49E9-8165-03890737A1D9}|Medicare-backend\\Medicare_backend.csproj|solutionrelative:medicare-backend\\services\\serviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE884C3A-1202-49E9-8165-03890737A1D9}|Medicare-backend\\Medicare_backend.csproj|d:\\review\\medicare\\medicare-backend\\medicare-backend\\medicare-backend\\services\\iserviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE884C3A-1202-49E9-8165-03890737A1D9}|Medicare-backend\\Medicare_backend.csproj|solutionrelative:medicare-backend\\services\\iserviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE884C3A-1202-49E9-8165-03890737A1D9}|Medicare-backend\\Medicare_backend.csproj|d:\\review\\medicare\\medicare-backend\\medicare-backend\\medicare-backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE884C3A-1202-49E9-8165-03890737A1D9}|Medicare-backend\\Medicare_backend.csproj|solutionrelative:medicare-backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE884C3A-1202-49E9-8165-03890737A1D9}|Medicare-backend\\Medicare_backend.csproj|d:\\review\\medicare\\medicare-backend\\medicare-backend\\medicare-backend\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE884C3A-1202-49E9-8165-03890737A1D9}|Medicare-backend\\Medicare_backend.csproj|solutionrelative:medicare-backend\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 187,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IServiceService.cs",
+              "DocumentMoniker": "D:\\review\\Medicare\\Medicare-backend\\Medicare-backend\\Medicare-backend\\Services\\IServiceService.cs",
+              "RelativeDocumentMoniker": "Medicare-backend\\Services\\IServiceService.cs",
+              "ToolTip": "D:\\review\\Medicare\\Medicare-backend\\Medicare-backend\\Medicare-backend\\Services\\IServiceService.cs",
+              "RelativeToolTip": "Medicare-backend\\Services\\IServiceService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T06:44:02.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ServiceService.cs",
+              "DocumentMoniker": "D:\\review\\Medicare\\Medicare-backend\\Medicare-backend\\Medicare-backend\\Services\\ServiceService.cs",
+              "RelativeDocumentMoniker": "Medicare-backend\\Services\\ServiceService.cs",
+              "ToolTip": "D:\\review\\Medicare\\Medicare-backend\\Medicare-backend\\Medicare-backend\\Services\\ServiceService.cs",
+              "RelativeToolTip": "Medicare-backend\\Services\\ServiceService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T06:26:45.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ServicesController.cs",
+              "DocumentMoniker": "D:\\review\\Medicare\\Medicare-backend\\Medicare-backend\\Medicare-backend\\Controllers\\ServicesController.cs",
+              "RelativeDocumentMoniker": "Medicare-backend\\Controllers\\ServicesController.cs",
+              "ToolTip": "D:\\review\\Medicare\\Medicare-backend\\Medicare-backend\\Medicare-backend\\Controllers\\ServicesController.cs",
+              "RelativeToolTip": "Medicare-backend\\Controllers\\ServicesController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T06:50:04.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\review\\Medicare\\Medicare-backend\\Medicare-backend\\Medicare-backend\\Program.cs",
+              "RelativeDocumentMoniker": "Medicare-backend\\Program.cs",
+              "ToolTip": "D:\\review\\Medicare\\Medicare-backend\\Medicare-backend\\Medicare-backend\\Program.cs",
+              "RelativeToolTip": "Medicare-backend\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T06:54:05.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "D:\\review\\Medicare\\Medicare-backend\\Medicare-backend\\Medicare-backend\\Mappings\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Medicare-backend\\Mappings\\MappingProfile.cs",
+              "ToolTip": "D:\\review\\Medicare\\Medicare-backend\\Medicare-backend\\Medicare-backend\\Mappings\\MappingProfile.cs",
+              "RelativeToolTip": "Medicare-backend\\Mappings\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T06:52:18.237Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Service.cs",
+              "DocumentMoniker": "D:\\review\\Medicare\\Medicare-backend\\Medicare-backend\\Medicare-backend\\Models\\Service.cs",
+              "RelativeDocumentMoniker": "Medicare-backend\\Models\\Service.cs",
+              "ToolTip": "D:\\review\\Medicare\\Medicare-backend\\Medicare-backend\\Medicare-backend\\Models\\Service.cs",
+              "RelativeToolTip": "Medicare-backend\\Models\\Service.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T07:07:53.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServiceDto.cs",
+              "DocumentMoniker": "D:\\review\\Medicare\\Medicare-backend\\Medicare-backend\\Medicare-backend\\DTOs\\ServiceDto.cs",
+              "RelativeDocumentMoniker": "Medicare-backend\\DTOs\\ServiceDto.cs",
+              "ToolTip": "D:\\review\\Medicare\\Medicare-backend\\Medicare-backend\\Medicare-backend\\DTOs\\ServiceDto.cs",
+              "RelativeToolTip": "Medicare-backend\\DTOs\\ServiceDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T07:07:50.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClinicsController.cs",
+              "DocumentMoniker": "D:\\review\\Medicare\\Medicare-backend\\Medicare-backend\\Medicare-backend\\Controllers\\ClinicsController.cs",
+              "RelativeDocumentMoniker": "Medicare-backend\\Controllers\\ClinicsController.cs",
+              "ToolTip": "D:\\review\\Medicare\\Medicare-backend\\Medicare-backend\\Medicare-backend\\Controllers\\ClinicsController.cs",
+              "RelativeToolTip": "Medicare-backend\\Controllers\\ClinicsController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAkwBMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T07:05:35.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SpecialtiesController.cs",
+              "DocumentMoniker": "D:\\review\\Medicare\\Medicare-backend\\Medicare-backend\\Medicare-backend\\Controllers\\SpecialtiesController.cs",
+              "RelativeDocumentMoniker": "Medicare-backend\\Controllers\\SpecialtiesController.cs",
+              "ToolTip": "D:\\review\\Medicare\\Medicare-backend\\Medicare-backend\\Medicare-backend\\Controllers\\SpecialtiesController.cs",
+              "RelativeToolTip": "Medicare-backend\\Controllers\\SpecialtiesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T07:05:25.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DoctorsController.cs",
+              "DocumentMoniker": "D:\\review\\Medicare\\Medicare-backend\\Medicare-backend\\Medicare-backend\\Controllers\\DoctorsController.cs",
+              "RelativeDocumentMoniker": "Medicare-backend\\Controllers\\DoctorsController.cs",
+              "ToolTip": "D:\\review\\Medicare\\Medicare-backend\\Medicare-backend\\Medicare-backend\\Controllers\\DoctorsController.cs",
+              "RelativeToolTip": "Medicare-backend\\Controllers\\DoctorsController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T06:50:17.709Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
