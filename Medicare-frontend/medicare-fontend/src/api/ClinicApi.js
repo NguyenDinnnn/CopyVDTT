@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_URL = 'https://localhost:7130/api/clinic';
+const API_URL = 'http://172.20.10.6:7130/api/clinics';
 
 export const getClinics = () => axios.get(API_URL);
 

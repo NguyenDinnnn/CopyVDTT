@@ -1,0 +1,179 @@
+/* Header Controls Wrapper */
+.header-controls-wrapper {
+  background-color: white;
+  padding: 20px;
+  border-radius: 12px; /* Rounded corners */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Light shadow */
+  margin-bottom: 20px; /* Space below */
+}
+
+/* Header Controls Styling */
+.services-header {
+  display: flex;
+  justify-content: flex-start; /* Align elements to the left */
+  align-items: center;
+  gap: 15px; /* Space between items */
+  padding: 0 5px;
+  border: 2px solid rgb(249, 245, 245); /* Thêm viền màu trắng */
+}
+
+/* Filter Section - Thêm khung viền trắng bao quanh các checkbox */
+.filter-section {
+  display: flex;
+  gap: 20px;
+  align-items: center; /* Align checkboxes vertically */
+  padding: 10px; /* Thêm padding để tạo không gian bên trong khung */
+  border: 2px solid white; /* Viền trắng bao quanh các checkbox */
+  border-radius: 8px; /* Viền bo tròn */
+}
+
+/* Filter Checkbox Styling */
+.filter-checkbox {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  font-size: 14px;
+  color: #333;
+  padding: 5px 0;
+}
+
+.filter-checkbox input[type="checkbox"] {
+  margin-right: 8px;
+  width: 16px;
+  height: 16px;
+  accent-color: #4285f4;
+}
+
+/* Search Section - Thêm khung viền trắng bao quanh phần tìm kiếm */
+.search-section {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex-grow: 1; /* Take up remaining space */
+  justify-content: flex-end; /* Align to the right */
+  padding: 10px; /* Thêm padding để tạo không gian trong khung */
+  border: 2px solid white; /* Viền trắng bao quanh phần tìm kiếm */
+  border-radius: 8px; /* Viền bo tròn */
+}
+
+/* Search Container */
+.search-container {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+
+.search-input {
+  width: 280px;
+  padding: 8px 40px 8px 12px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  font-size: 14px;
+  outline: none;
+  transition: border-color 0.3s;
+}
+
+.search-input:focus {
+  border-color: #4285f4;
+  box-shadow: 0 0 0 2px rgba(66, 133, 244, 0.1);
+}
+
+.search-btn {
+  position: absolute;
+  right: 8px;
+  background: none;
+  border: none;
+  cursor: pointer;
+  color: #666;
+  padding: 4px;
+  border-radius: 2px;
+}
+
+/* Sort Button */
+.sort-btn {
+  background: none;
+  border: 1px solid #ddd;
+  padding: 8px;
+  border-radius: 4px;
+  cursor: pointer;
+  color: #666;
+  transition: all 0.3s;
+}
+
+/* Add Service Button - Giữ lại màu cho nút Thêm */
+.add-service-section {
+  margin-bottom: 20px;
+}
+
+.add-service-btn {
+  background-color: #4285f4; /* Màu gốc của nút Thêm */
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 4px;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+/* Services Table */
+.services-table-container {
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+}
+
+.services-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.services-table thead {
+  background-color: #4285f4;
+  color: white;
+}
+
+.services-table th, .services-table td {
+  padding: 12px 16px;
+  font-size: 14px;
+  text-align: left;
+}
+
+.action-buttons {
+  display: flex;
+  gap: 5px;
+  justify-content: center;
+}
+
+/* Action Buttons */
+.action-btn {
+  background: none;
+  border: none;
+  padding: 6px;
+  border-radius: 4px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .services-header {
+    flex-direction: column;
+    gap: 15px;
+    align-items: stretch;
+  }
+  
+  .filter-section {
+    justify-content: center;
+  }
+  
+  .search-section {
+    justify-content: center;
+  }
+
+  .services-table-container {
+    overflow-x: auto;
+  }
+}
